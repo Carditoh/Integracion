@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="DESKTOP-6IQVTMI" failures="0" tests="1" name="Conexion.NewTest" time="0.384" errors="0" timestamp="2 Jan 2024 03:01:56 GMT">
+  <testcase classname="Conexion.NewTest" name="f" time="0.357"/>
+</testsuite>
